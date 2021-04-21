@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="175dp"
+    android:gravity="bottom|start"
+    android:background="@color/color_primary_variant"
+    android:padding="@dimen/padding_button"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:src="@mipmap/ic_safepassword_foreground"
+        android:layout_marginBottom="@dimen/padding_button"
+        android:contentDescription="@string/image_icon_drawer_menu" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/padding_button">
+
+        <TextView
+            android:id="@+id/session_log_sync"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/padding_button"
+            android:text="@string/not_session"
+            android:maxLines="@integer/item_max_lines"
+            android:autoSizeTextType="uniform"
+            android:textAllCaps="true"
+            android:textStyle="bold"
+            android:textColor="@color/color_secondary_dark" />
+
+        <ImageView
+            android:id="@+id/icon_sync_configuration"
+            android:layout_width="16dp"
+            android:layout_height="16dp"
+            android:layout_marginStart="@dimen/padding_button"
+            android:src="@drawable/ic_baseline_cloud_off"
+            android:contentDescription="@string/icon_sync_configuration" />
+
+    </LinearLayout>
+
+</LinearLayout>

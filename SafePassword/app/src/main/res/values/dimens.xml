@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="entry_welcome">50dp</dimen>
+    <dimen name="recycler_space">30dp</dimen>
+    <dimen name="toolbar_name">35sp</dimen>
+
+    <dimen name="margin_floating_item">10dp</dimen>
+    <dimen name="numpad_margin">5dp</dimen>
+
+    <dimen name="padding_button">10dp</dimen>
+    <dimen name="margin_floating_layout">25dp</dimen>
+    <dimen name="relative_entry">20dp</dimen>
+
+    <dimen name="session_text">15sp</dimen>
+    <dimen name="session_log">12sp</dimen>
+    <dimen name="item_password_bold">30sp</dimen>
+    <dimen name="item_password_text">20sp</dimen>
+    <dimen name="numpad_text">20dp</dimen>
+
+    <dimen name="radius_background">15dp</dimen>
+    <dimen name="radius_floating">50dp</dimen>
+
+    <dimen name="radius_cardview">30dp</dimen>
+    <dimen name="elevation_cardview">12dp</dimen>
+</resources>

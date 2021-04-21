@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/ly_welcome"
+    tools:context=".init.ActivityMain">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:padding="10dp"
+        android:layout_weight="2"
+        android:gravity="bottom"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:src="@drawable/title_sp"
+            android:contentDescription="@string/image_title_safepassword" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:padding="10dp"
+        android:layout_weight="3"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/tv_password_entry"
+            android:inputType="textPassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/entry_welcome"
+            android:layout_centerHorizontal="true"
+            android:layout_centerInParent="true"
+            android:hint="@string/text_item_password"
+            android:maxLines="@integer/item_max_lines"
+            android:maxLength="@integer/item_max_length"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:paddingEnd="5dp"
+            android:paddingStart="5dp"
+            android:textAlignment="center"
+            android:autoSizeTextType="uniform"
+            android:autofillHints="" />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:padding="10dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:baselineAligned="false">
+
+            <Button
+                android:id="@+id/bt_logging"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:autoSizeTextType="uniform"
+                android:textStyle="bold"
+                android:textColor="@color/color_on_primary"
+                android:background="@drawable/bt_background"
+                android:text="@string/iniciar_sesion"
+                android:textAlignment="center"/>
+
+    </LinearLayout>
+
+</LinearLayout>

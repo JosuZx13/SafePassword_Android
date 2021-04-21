@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/menu_upload_backup"
+            android:icon="@drawable/ic_baseline_cloud_upload"
+            app:showAsAction="ifRoom"
+            android:title="@string/upload_backup" />
+        <item
+            android:id="@+id/menu_download_cloud_backup"
+            android:icon="@drawable/ic_baseline_cloud_download"
+            app:showAsAction="ifRoom"
+            android:title="@string/download_backup" />
+
+        <item
+            android:id="@+id/menu_admin_backup"
+            android:icon="@drawable/ic_baseline_backup_table"
+            app:showAsAction="ifRoom"
+            android:title="@string/admin_backup" />
+
+        <item
+            android:id="@+id/menu_account_cloud"
+            android:icon="@drawable/ic_baseline_switch_account"
+            app:showAsAction="ifRoom"
+            android:title="@string/account_change" />
+    </group>
+
+    <item android:title="@string/date_backup">
+
+        <menu android:checkableBehavior="none" >
+            <item
+                android:id="@+id/last_local_backup"
+                android:title="@string/local_date_backup" />
+
+            <item
+                android:id="@+id/last_cloud_backup"
+                android:title="@string/cloud_date_backup" />
+
+        </menu>
+
+    </item>
+
+</menu>

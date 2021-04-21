@@ -1,0 +1,186 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="pdm.safepassword"
+4    android:versionCode="1"
+5    android:versionName="4.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="27"
+8-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml
+10
+11    <!-- Permisos de Escritura y Lectura en el Dispositivo -->
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:6:5-81
+12-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:6:22-78
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:7:5-80
+13-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:7:22-77
+14
+15    <!-- Permisos requeridos por Google Auth -->
+16    <!-- Permiso para la conexión a internet -->
+17    <uses-permission android:name="android.permission.INTERNET" />
+17-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:11:5-67
+17-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:11:22-64
+18    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+18-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:12:5-71
+18-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:12:22-68
+19    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
+19-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:13:5-74
+19-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:13:22-71
+20
+21    <!-- Permiso para poder usar y guardar la huella -->
+22    <uses-permission android:name="android.permission.USE_BIOMETRIC" />
+22-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:16:5-72
+22-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:16:22-69
+23
+24    <!-- suppress DeprecatedClassUsageInspection -->
+25    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+25-->[androidx.biometric:biometric:1.1.0] /home/josu/.gradle/caches/transforms-2/files-2.1/eb60f6fa076f83ca71dcbab3f595b9ba/biometric-1.1.0/AndroidManifest.xml:27:5-74
+25-->[androidx.biometric:biometric:1.1.0] /home/josu/.gradle/caches/transforms-2/files-2.1/eb60f6fa076f83ca71dcbab3f595b9ba/biometric-1.1.0/AndroidManifest.xml:27:22-71
+26
+27    <application
+27-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:18:5-69:19
+28        android:allowBackup="true"
+28-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:19:9-35
+29        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+29-->[androidx.core:core:1.3.2] /home/josu/.gradle/caches/transforms-2/files-2.1/870f77caa98361babb7de475f36bb8a2/core-1.3.2/AndroidManifest.xml:24:18-86
+30        android:debuggable="true"
+31        android:extractNativeLibs="false"
+32        android:icon="@mipmap/ic_safepassword"
+32-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:20:9-47
+33        android:label="@string/app_name"
+33-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:21:9-41
+34        android:roundIcon="@mipmap/ic_safepassword_round"
+34-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:22:9-58
+35        android:supportsRtl="true"
+35-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:23:9-35
+36        android:theme="@style/Theme.SafePassword"
+36-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:25:9-50
+37        android:windowSoftInputMode="adjustResize" >
+37-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:24:9-51
+38        <meta-data
+38-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:27:9-29:60
+39            android:name="safe_password_google_drive_api_key"
+39-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:28:13-62
+40            android:value="@string/api_google_drive_key" />
+40-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:29:13-57
+41
+42        <activity android:name="pdm.safepassword.init.ActivityMain" >
+42-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:31:9-37:20
+42-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:31:19-52
+43            <intent-filter>
+43-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:32:13-36:29
+44                <action android:name="android.intent.action.MAIN" />
+44-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:33:17-69
+44-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:33:25-66
+45
+46                <category android:name="android.intent.category.LAUNCHER" />
+46-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:35:17-77
+46-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:35:27-74
+47            </intent-filter>
+48        </activity>
+49        <activity
+49-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:39:9-40:45
+50            android:name="pdm.safepassword.login.ActivityLogin"
+50-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:39:19-54
+51            android:label="ACTIVITY-LOGIN" />
+51-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:40:13-43
+52        <activity
+52-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:42:9-44:52
+53            android:name="pdm.safepassword.login.FragmentFloatingNewPassword"
+53-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:42:19-68
+54            android:label="FRAGMENT-NEW_PASSWORD"
+54-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:44:13-50
+55            android:theme="@style/FloatingStyleNotTouch" />
+55-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:43:13-57
+56        <activity
+56-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:46:9-48:57
+57            android:name="pdm.safepassword.login.FragmentFloatingPassword"
+57-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:46:19-65
+58            android:label="FRAGMENT-HIDESHOW_PASSWORD"
+58-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:48:13-55
+59            android:theme="@style/FloatingStyleNotTouch" />
+59-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:47:13-57
+60        <activity
+60-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:50:9-52:53
+61            android:name="pdm.safepassword.login.FragmentFloatingEdit"
+61-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:50:19-61
+62            android:label="FRAGMENT-EDIT_PASSWORD"
+62-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:52:13-51
+63            android:theme="@style/FloatingStyleNotTouch" />
+63-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:51:13-57
+64        <activity
+64-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:54:9-56:55
+65            android:name="pdm.safepassword.login.FragmentFloatingBackup"
+65-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:54:19-63
+66            android:label="FRAGMENT-FLOATING_BACKUP"
+66-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:56:13-53
+67            android:theme="@style/FloatingStyleNotTouch" />
+67-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:55:13-57
+68        <activity
+68-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:58:9-60:47
+69            android:name="pdm.safepassword.init.PinCode"
+69-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:58:19-47
+70            android:label="FRAGMENT-PINCODE"
+70-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:60:13-45
+71            android:theme="@style/FloatingStyleNotTouch" />
+71-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:59:13-57
+72        <activity
+72-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:62:9-64:48
+73            android:name="pdm.safepassword.init.PassCode"
+73-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:62:19-48
+74            android:label="FRAGMENT-PASSCODE"
+74-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:64:13-46
+75            android:theme="@style/FloatingStyleNotTouch" />
+75-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:63:13-57
+76        <activity
+76-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:66:9-67:43
+77            android:name="pdm.safepassword.init.ActivityExit"
+77-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:66:19-52
+78            android:label="ACTIVIY-EXIT" />
+78-->/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/AndroidManifest.xml:67:13-41
+79        <activity
+79-->[com.google.android.gms:play-services-auth:19.0.0] /home/josu/.gradle/caches/transforms-2/files-2.1/83b845f1ce0bf61411ef0508f8c46208/jetified-play-services-auth-19.0.0/AndroidManifest.xml:23:9-27:75
+80            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+80-->[com.google.android.gms:play-services-auth:19.0.0] /home/josu/.gradle/caches/transforms-2/files-2.1/83b845f1ce0bf61411ef0508f8c46208/jetified-play-services-auth-19.0.0/AndroidManifest.xml:24:13-93
+81            android:excludeFromRecents="true"
+81-->[com.google.android.gms:play-services-auth:19.0.0] /home/josu/.gradle/caches/transforms-2/files-2.1/83b845f1ce0bf61411ef0508f8c46208/jetified-play-services-auth-19.0.0/AndroidManifest.xml:25:13-46
+82            android:exported="false"
+82-->[com.google.android.gms:play-services-auth:19.0.0] /home/josu/.gradle/caches/transforms-2/files-2.1/83b845f1ce0bf61411ef0508f8c46208/jetified-play-services-auth-19.0.0/AndroidManifest.xml:26:13-37
+83            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+83-->[com.google.android.gms:play-services-auth:19.0.0] /home/josu/.gradle/caches/transforms-2/files-2.1/83b845f1ce0bf61411ef0508f8c46208/jetified-play-services-auth-19.0.0/AndroidManifest.xml:27:13-72
+84        <!--
+85            Service handling Google Sign-In user revocation. For apps that do not integrate with
+86            Google Sign-In, this service will never be started.
+87        -->
+88        <service
+88-->[com.google.android.gms:play-services-auth:19.0.0] /home/josu/.gradle/caches/transforms-2/files-2.1/83b845f1ce0bf61411ef0508f8c46208/jetified-play-services-auth-19.0.0/AndroidManifest.xml:33:9-37:51
+89            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+89-->[com.google.android.gms:play-services-auth:19.0.0] /home/josu/.gradle/caches/transforms-2/files-2.1/83b845f1ce0bf61411ef0508f8c46208/jetified-play-services-auth-19.0.0/AndroidManifest.xml:34:13-89
+90            android:exported="true"
+90-->[com.google.android.gms:play-services-auth:19.0.0] /home/josu/.gradle/caches/transforms-2/files-2.1/83b845f1ce0bf61411ef0508f8c46208/jetified-play-services-auth-19.0.0/AndroidManifest.xml:35:13-36
+91            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+91-->[com.google.android.gms:play-services-auth:19.0.0] /home/josu/.gradle/caches/transforms-2/files-2.1/83b845f1ce0bf61411ef0508f8c46208/jetified-play-services-auth-19.0.0/AndroidManifest.xml:36:13-107
+92            android:visibleToInstantApps="true" />
+92-->[com.google.android.gms:play-services-auth:19.0.0] /home/josu/.gradle/caches/transforms-2/files-2.1/83b845f1ce0bf61411ef0508f8c46208/jetified-play-services-auth-19.0.0/AndroidManifest.xml:37:13-48
+93
+94        <activity
+94-->[com.google.android.gms:play-services-base:17.1.0] /home/josu/.gradle/caches/transforms-2/files-2.1/1ba2f28cbc7d2590c038e3ffb31f9f7a/jetified-play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+95            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+95-->[com.google.android.gms:play-services-base:17.1.0] /home/josu/.gradle/caches/transforms-2/files-2.1/1ba2f28cbc7d2590c038e3ffb31f9f7a/jetified-play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+96            android:exported="false"
+96-->[com.google.android.gms:play-services-base:17.1.0] /home/josu/.gradle/caches/transforms-2/files-2.1/1ba2f28cbc7d2590c038e3ffb31f9f7a/jetified-play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+97            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+97-->[com.google.android.gms:play-services-base:17.1.0] /home/josu/.gradle/caches/transforms-2/files-2.1/1ba2f28cbc7d2590c038e3ffb31f9f7a/jetified-play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+98
+99        <meta-data
+99-->[com.google.android.gms:play-services-basement:17.1.1] /home/josu/.gradle/caches/transforms-2/files-2.1/0fab4de84d54b001567e7ac89c918419/jetified-play-services-basement-17.1.1/AndroidManifest.xml:23:9-25:69
+100            android:name="com.google.android.gms.version"
+100-->[com.google.android.gms:play-services-basement:17.1.1] /home/josu/.gradle/caches/transforms-2/files-2.1/0fab4de84d54b001567e7ac89c918419/jetified-play-services-basement-17.1.1/AndroidManifest.xml:24:13-58
+101            android:value="@integer/google_play_services_version" />
+101-->[com.google.android.gms:play-services-basement:17.1.1] /home/josu/.gradle/caches/transforms-2/files-2.1/0fab4de84d54b001567e7ac89c918419/jetified-play-services-basement-17.1.1/AndroidManifest.xml:25:13-66
+102    </application>
+103
+104</manifest>

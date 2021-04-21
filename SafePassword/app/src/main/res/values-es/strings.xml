@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SafePassword</string>
+    <string name="idioma_es">Español</string>
+    <string name="idioma_en">Ingles</string>
+
+    <string name="iniciar_sesion">INICIAR SESION</string>
+    <string name="registro">REGISTRO</string>
+    <string name="importar_backup">IMPORTAR BASE DE DATOS</string>
+
+    <string name="text_item_name">Nombre</string>
+    <string name="text_item_user">Usuario</string>
+    <string name="text_item_password">Contraseña</string>
+    <string name="text_item_url">Pagina Web</string>
+
+    <string name="bt_add_new_pass">Nueva Contraseña</string>
+    <string name="bt_delete_user_registered">Eliminar Usuario</string>
+    <string name="bt_modify_pin">Modificar Pin</string>
+
+    <string name="upload_backup">Subir Copia de Seguridad</string>
+    <string name="download_backup">Descargar Copia de Seguridad</string>
+    <string name="admin_backup">Administrar Copias de Seguridad Local</string>
+    <string name="account_change">Cambiar Cuenta Nube</string>
+
+    <!-- Mensajes de error o informacion -->
+    <string name="app_cerrar">Salir de SafePassword</string>
+    <string name="cerrar_mensaje">¿Desea salir de la Aplicación?</string>
+
+    <string name="app_borrar_usuario">Eliminar Usuario</string>
+    <string name="borrar_usuario_mensaje">¿Está seguro de eliminar el usuario? Perderá todas las contraseñas asociadas</string>
+
+    <string name="app_borrar_password">Eliminar Contraseña</string>
+    <string name="borrar_password_mensaje">¿Está seguro de eliminar la contraseña?</string>
+
+    <string name="app_backup">Copia de Seguridad</string>
+    <string name="backup_mensaje">¿Qué tipo de copia de seguridad quiere crear?</string>
+    <string name="local_type">Copia Local</string>
+    <string name="cloud_type">Copia en la Nube</string>
+
+    <string name="app_borrar_backup">Borrar Copia de Seguridad</string>
+    <string name="borrar_backup_mensaje">¿Está seguro de eliminar la Copia de Seguridad?</string>
+
+    <string name="app_borrar_all_backup">Borrar TODAS Las Copias de Seguridad</string>
+    <string name="borrar_all_backup_mensaje">¿Está seguro de eliminar TODAS las Copias de Seguridad?</string>
+
+    <string name="app_verification">Verificación del Usuario</string>
+    <string name="prefer_password">Contraseña</string>
+    <string name="prefer_pin_code">Código Pin</string>
+
+    <string name="aceptar">Sí</string>
+    <string name="cancelar">No</string>
+
+    <!-- Autenticación -->
+    <string name="biometric_login_title">Inicio de Sesión Biométrico</string>
+    <string name="biometric_login_fingerprint">Use Su Huella Para Iniciar Sesión</string>
+    <string name="biometric_login_password">Prefiero Usar Mi Contraseña</string>
+    <string name="biometric_sucess">¡Identificación Realizada!</string>
+    <string name="biometric_fail">Fallo en la Identificación</string>
+
+    <string name="pincode_error">El Pin Introducido No Es Correcto</string>
+    <string name="pinconde_not_enough_digit">El Pin Tiene Que Tener Cuatro (4) Digitos</string>
+    <string name="pinconde_save_correctly">Pin Registrado Correctamente</string>
+    <string name="pinconde_register">Introduce Un Pin De Cuatro (4) Digitos</string>
+    <string name="pincode_not_exist">No Hay Un Pin Registrado</string>
+    <string name="pinconde_not_registered">El Pin No Se Ha Registrado</string>
+    <string name="required_password_continue">Introduzca Su Contraseña Para Continuar</string>
+
+    <string name="not_database_init">No Hay Ninguna Base de Datos Inicializada. Regístrese En Primer Lugar</string>
+    <string name="mensaje_usuario_existe">Ya Existe Una Contraseña Definida Para La Base De Datos Cargada</string>
+    <string name="mensaje_usuario_password_incorrecta">La Contraseña Introducida No Es Correcta</string>
+    <string name="mensaje_usuario_no_existe">El Usuario No Existe</string>
+    <string name="mensaje_usuario_registrado">La Contraseña Ha Sido Registrado</string>
+    <string name="mensaje_usuario_eliminado">La Base de Datos Ha sido Eliminado</string>
+    <string name="mensaje_usuario_minimo_caracteres">Al Menos Cuatro (4) Caracteres Para El Usuario</string>
+    <string name="mensaje_password_minimo_caracteres">Al Menos Cuatro (4) Caracteres Para La Contraseña</string>
+    <string name="mensaje_usuario_logged">Session Iniciada</string>
+
+    <string name="mensaje_password_new_password_added">Contraseña Guardada</string>
+    <string name="mensaje_password_edited">Contraseña Editada</string>
+    <string name="mensaje_password_deleted">Contraseña Eliminada</string>
+    <string name="mensaje_password_name_incorrecto">El Nombre Elegido Ya Existe</string>
+
+    <string name="not_local_backup_yet">No Existen Copias de Seguridad Local</string>
+    <string name="backup_delete_option">Borrar Copia</string>
+    <string name="backup_restore_option">Restaurar Copia</string>
+    <string name="mensaje_backup_deleted">Copia de Seguridad Eliminada</string>
+    <string name="mensaje_all_backup_deleted">Todas las Copias de Seguridad Eliminadas</string>
+
+    <string name="not_session">No Hay Sincronización Con La Nube</string>
+    <string name="not_google_session">Aun No Ha Iniciado Sesión En Una Cuenta Google</string>
+    <string name="mensaje_generico_error_safepassword">Ha ocurrido un error, algo ha salido mal</string>
+
+    <string name="local_backup_create">Copia de Seguridad Local Creada</string>
+    <string name="cloud_backup_create">Copia de Seguridad en Cloud Creada</string>
+    <string name="backup_not_complete">No Ha Sido Posible Crear La Copia De Seguridad</string>
+    <string name="unable_create_dir_local_backup">No ha sido posible crear el directorio, inténtelo de nuevo</string>
+
+    <string name="local_backup_restored">Copia Local Importada: </string>
+    <string name="local_backup_not_restored">No fue Posible Importar la Copia Local Seleccionada</string>
+
+    <string name="date_backup">COPIA DE SEGURIDAD</string>
+    <string name="local_date_backup">LOCAL</string>
+    <string name="cloud_date_backup">NUBE</string>
+    <string name="never_backup">Nunca</string>
+
+    <string-array name="category_filter">
+        <item>Todo</item>
+        <item>RedSocial</item>
+        <item>CorreoElectronico</item>
+        <item>Banco</item>
+        <item>Foro</item>
+        <item>WiFi</item>
+        <item>Trabajo</item>
+        <item>Otro</item>
+    </string-array>
+
+    <string-array name="category">
+        <item>RedSocial</item>
+        <item>CorreoElectronico</item>
+        <item>Banco</item>
+        <item>Foro</item>
+        <item>WiFi</item>
+        <item>Trabajo</item>
+        <item>Otro</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SafePassword</string>
+    <string name="idioma_es">Español</string>
+    <string name="idioma_en">Ingles</string>
+
+    <string name="iniciar_sesion">LOG IN</string>
+    <string name="registro">SIGN IN</string>
+    <string name="importar_backup">IMPORT BACKUP</string>
+
+    <string name="text_item_name">Name</string>
+    <string name="text_item_user">User</string>
+    <string name="text_item_password">Password</string>
+    <string name="text_item_url">Web</string>
+
+    <string name="bt_add_new_pass">Add Password</string>
+    <string name="bt_delete_user_registered">Delete User</string>
+    <string name="bt_modify_pin">Modify Pin</string>
+
+    <string name="upload_backup">Upload Backup</string>
+    <string name="download_backup">Download Backup</string>
+    <string name="admin_backup">Admin Local Backup</string>
+    <string name="account_change">Switch Cloud Account</string>
+
+    <!-- Mensajes de error o informacion -->
+    <string name="app_cerrar">Exit SafePassword</string>
+    <string name="cerrar_mensaje">Really Want To Exit?</string>
+
+    <string name="app_borrar_usuario">Delete User</string>
+    <string name="borrar_usuario_mensaje">Are You Sure That You Want To Delete The User? You Will Lose ALL Associated Passwords</string>
+
+    <string name="app_borrar_password">Delete Password</string>
+    <string name="borrar_password_mensaje">Are You Sure That You Want To Delete The Password?</string>
+
+    <string name="app_backup">Backup</string>
+    <string name="backup_mensaje">What Kind Of Backup You Prefer?</string>
+    <string name="local_type">Local Backup</string>
+    <string name="cloud_type">Cloud Backup</string>
+
+    <string name="app_borrar_backup">Delete Backup</string>
+    <string name="borrar_backup_mensaje">Are you sure that you want to delete the backup?</string>
+
+    <string name="app_borrar_all_backup">Delete ALL Backup</string>
+    <string name="borrar_all_backup_mensaje">Are you sure that you want to delete ALL backup?</string>
+
+    <string name="app_verification">User Verification</string>
+    <string name="prefer_password">Password</string>
+    <string name="prefer_pin_code">Pin Code</string>
+
+    <string name="aceptar">Yes</string>
+    <string name="cancelar">No</string>
+
+    <!-- Autenticación -->
+    <string name="biometric_login_title">Biometric Login</string>
+    <string name="biometric_login_fingerprint">Use Your Fingerprint To Login</string>
+    <string name="biometric_login_password">I Prefer Use My Password</string>
+    <string name="biometric_sucess">Authentication Succeeded!</string>
+    <string name="biometric_fail">Authentication Failed</string>
+
+    <string name="pincode_error">Not A Valid Pin</string>
+    <string name="pinconde_not_enough_digit">Pin Must Have Four (4) Digits</string>
+    <string name="pinconde_save_correctly">Pin Register Correctly</string>
+    <string name="pinconde_register">Register A Four (4) Digit Pin Number</string>
+    <string name="pincode_not_exist">There Is Not A Pin Registered</string>
+    <string name="pinconde_not_registered">Pin Not Registered</string>
+    <string name="required_password_continue">Enter Your Password To Continue</string>
+
+    <string name="not_database_init">Any Database Initialize. Please Register Before Use App</string>
+    <string name="mensaje_usuario_existe">Password Already Define For This Database</string>
+    <string name="mensaje_usuario_password_incorrecta">Wrong Password</string>
+    <string name="mensaje_usuario_no_existe">User Doesn\'t Exist</string>
+    <string name="mensaje_usuario_registrado">Password Has Been Registered</string>
+    <string name="mensaje_usuario_eliminado">Database Has Been Deleted</string>
+    <string name="mensaje_usuario_minimo_caracteres">Almost Four (4) Characteres To User</string>
+    <string name="mensaje_password_minimo_caracteres">Almost Four (4) Characteres To Password</string>
+    <string name="mensaje_usuario_logged">Session Has Logged</string>
+
+    <string name="mensaje_password_new_password_added">Password Saved</string>
+    <string name="mensaje_password_edited">Password Edited</string>
+    <string name="mensaje_password_deleted">Password Deleted</string>
+    <string name="mensaje_password_name_incorrecto">Chosen Name Already In Use</string>
+
+    <string name="not_local_backup_yet">There Is Any Local Backup</string>
+    <string name="backup_delete_option">Delete Backup</string>
+    <string name="backup_restore_option">Restore Backup</string>
+    <string name="mensaje_backup_deleted">Backup Deleted</string>
+    <string name="mensaje_all_backup_deleted">All Backup Deleted</string>
+
+    <string name="not_session">Not Cloud Sync</string>
+    <string name="not_google_session">Not Sign-in Yet On Google Account</string>
+    <string name="mensaje_generico_error_safepassword">Something Wrong</string>
+
+    <string name="local_backup_create">Local Backup Created</string>
+    <string name="cloud_backup_create">Cloud Backup Created</string>
+    <string name="backup_not_complete">Unable To Create Backup</string>
+    <string name="unable_create_dir_local_backup">Unable To Create Directory, Retry</string>
+
+    <string name="local_backup_restored">Local Backup Restored: </string>
+    <string name="local_backup_not_restored">Unable to Restore Local Backup Selected</string>
+
+    <string name="date_backup">BACKUP</string>
+    <string name="local_date_backup">LOCAL</string>
+    <string name="cloud_date_backup">CLOUD</string>
+    <string name="never_backup">Never</string>
+
+    <string-array name="category_filter">
+        <item>All</item>
+        <item>SocialNetwork</item>
+        <item>Email</item>
+        <item>Bank</item>
+        <item>Forum</item>
+        <item>WiFi</item>
+        <item>Work</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="category">
+        <item>SocialNetwork</item>
+        <item>Email</item>
+        <item>Bank</item>
+        <item>Forum</item>
+        <item>WiFi</item>
+        <item>Work</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="category_icon" translatable="false">
+        <item>Amazon</item>
+        <item>CreditCard</item>
+        <item>Email</item>
+        <item>Facebook</item>
+        <item>Gmail</item>
+        <item>Instagram</item>
+        <item>MicrosoftOutlook</item>
+        <item>Netflix</item>
+        <item>Other</item>
+        <item>Personal</item>
+        <item>Reddit</item>
+        <item>Steam</item>
+        <item>TikTok</item>
+        <item>Twitch</item>
+        <item>Twitter</item>
+        <item>Wi-Fi</item>
+        <item>Work</item>
+    </string-array>
+
+    <!-- VALORES PARA LOS CAMPOS DE LA BASE DE DATOS (Marcados como NO TRADUCIBLES, son Globlaes -->
+    <!-- TABLA USUARIOS, USR -->
+    <string name="key_table_usuarios" translatable="false">USUARIOS</string>
+    <string name="key_usuarios_id" translatable="false">USR_ID</string>
+    <string name="key_usuarios_pin" translatable="false">USR_PIN</string>
+    <string name="key_usuarios_pass" translatable="false">USR_PASS</string>
+    <string name="key_usuarios_cloud" translatable="false">USR_CLOUD</string>
+
+    <!-- TABLA PASSWORD, PSW -->
+    <string name="key_table_password" translatable="false">PASSWORD</string>
+    <string name="key_password_id" translatable="false">PSW_ID</string>
+    <string name="key_password_user" translatable="false">PSW_USER</string>
+    <string name="key_password_pass" translatable="false">PSW_PASS</string>
+    <string name="key_password_name" translatable="false">PSW_NAME</string>
+    <string name="key_password_category" translatable="false">PSW_CATEGORY</string>
+    <string name="key_password_logo" translatable="false">PSW_LOGO</string>
+    <string name="key_password_url" translatable="false">PSW_URL</string>
+
+    <!-- TABLA BACKUP, BK -->
+    <string name="key_table_backup" translatable="false">BACKUP</string>
+    <string name="key_backup_id" translatable="false">BK_ID</string>
+    <string name="key_backup_date" translatable="false">BK_DATE</string>
+    <string name="key_backup_name" translatable="false">BK_NAME</string>
+
+    <!-- API KEY DE GOOGLE DRIVE -->
+    <string name="server_client_id" translatable="false">YOUR CLIENT ID</string>
+    <string name="api_google_drive_key" translatable="false">YOUR DRIVE KEY</string>
+
+    <!-- Directorio de creacion de la copia de Seguridad y el fichero -->
+    <string name="dir_local_backup" translatable="false">LocalBackupSafePassword</string>
+    <string name="file_local_backup" translatable="false">SafePassword_</string>
+
+    <string name="ok" translatable="false">OK</string>
+    <!-- Content Description de las Imagenes -->
+    <string name="icon_message_toast" translatable="false">icon_message</string>
+    <string name="icon_delete_password" translatable="false">icon_delete_pass</string>
+    <string name="icon_edit_password" translatable="false">icon_edit_pass</string>
+    <string name="icon_done_password" translatable="false">icon_done_password</string>
+    <string name="fab_add_new_password" translatable="false">fab_add_new_password</string>
+    <string name="image_icon_drawer_menu" translatable="false">Image Icon Drawer Menu</string>
+    <string name="icon_sync_configuration" translatable="false">icon_sync_configuration</string>
+    <string name="icon_delete_backup" translatable="false">icon_delete_backup</string>
+    <string name="fab_delete_all_backup" translatable="false">fab_delete_all_backup</string>
+    <string name="icon_exit_edit" translatable="false">icon_exit_edit</string>
+    <string name="image_title_safepassword" translatable="false">image_title_safepassword</string>
+    <string name="icon_name_shield" translatable="false">icon_name_shield</string>
+    <string name="icon_user_account" translatable="false">icon_user_account</string>
+    <string name="icon_password_key" translatable="false">icon_password_key</string>
+    <string name="icon_exit_pincode" translatable="false">icon_exit_pincode</string>
+    <string name="icon_clear_pincode" translatable="false">icon_clear_pincode</string>
+    <string name="bt_delete_user" translatable="false">bt_delete_user</string>
+    <string name="icon_url_link" translatable="false">icon_url_link</string>
+    <string name="item_password_logo" translatable="false">item_password_logo</string>
+    <string name="floating_button_filter" translatable="false">floating_button_filter</string>
+
+    <string-array name="numpad_digits" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+
+    <string name="numpad_1" translatable="false">1</string>
+    <string name="numpad_2" translatable="false">2</string>
+    <string name="numpad_3" translatable="false">3</string>
+    <string name="numpad_4" translatable="false">4</string>
+    <string name="numpad_5" translatable="false">5</string>
+    <string name="numpad_6" translatable="false">6</string>
+    <string name="numpad_7" translatable="false">7</string>
+    <string name="numpad_8" translatable="false">8</string>
+    <string name="numpad_9" translatable="false">9</string>
+    <string name="numpad_0" translatable="false">0</string>
+
+</resources>

@@ -1,0 +1,382 @@
+[
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_floating_background.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/floating_background.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_safepassword_foreground.png.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/mipmap-xhdpi/ic_safepassword_foreground.png"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_spn_wifi.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_spn_wifi.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_safepassword_round.png.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/mipmap-xhdpi/ic_safepassword_round.png"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_baseline_menu_open.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_baseline_menu_open.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_baseline_cloud_off.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_baseline_cloud_off.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/layout_item_password.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/layout/item_password.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_safepassword.png.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/mipmap-xhdpi/ic_safepassword.png"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_baseline_clear_all.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_baseline_clear_all.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_safepassword.png.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/mipmap-xxxhdpi/ic_safepassword.png"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_baseline_delete.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_baseline_delete.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_baseline_add.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_baseline_add.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_baseline_switch_account.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_baseline_switch_account.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_baseline_category.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_baseline_category.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_safepassword_foreground.png.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/mipmap-hdpi/ic_safepassword_foreground.png"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_baseline_save.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_baseline_save.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_safepassword_foreground.png.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/mipmap-xxhdpi/ic_safepassword_foreground.png"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_baseline_domain_verification.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_baseline_domain_verification.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/layout_menu_header.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/layout/menu_header.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/font_crimson_text.ttf.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/font/crimson_text.ttf"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_new_pass.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_new_pass.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_baseline_info_red.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_baseline_info_red.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_spn_microsoft_outlook.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_spn_microsoft_outlook.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_baseline_pin.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_baseline_pin.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable-v24_toast_background.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable-v24/toast_background.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_spn_steam.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_spn_steam.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_spn_email.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_spn_email.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_spn_facebook.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_spn_facebook.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_title_sp.png.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/title_sp.png"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_selector_password_button.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/selector_password_button.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/layout_activity_welcome.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_spn_twitter.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_spn_twitter.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_baseline_edit.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_baseline_edit.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_safepassword.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/mipmap-anydpi-v26/ic_safepassword.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_spn_netflix.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_spn_netflix.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_spn_credit_card.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_spn_credit_card.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable-v24_bt_background.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable-v24/bt_background.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/anim_slide_out.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/anim/slide_out.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_baseline_item_delete.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_baseline_item_delete.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_baseline_fingerprint.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_baseline_fingerprint.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_baseline_cloud_download.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_baseline_cloud_download.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_border_backup.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/border_backup.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_baseline_backup_table.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_baseline_backup_table.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_numpad_button.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/numpad_button.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/anim_slide_in.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/anim/slide_in.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/layout_fragment_floating_edit.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/layout/fragment_floating_edit.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_baseline_account.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_baseline_account.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_safepassword_round.png.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/mipmap-xxhdpi/ic_safepassword_round.png"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_safepassword_foreground.png.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/mipmap-xxxhdpi/ic_safepassword_foreground.png"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/layout_fragment_new_password.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/layout/fragment_new_password.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_baseline_url.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_baseline_url.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_safepassword_round.png.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/mipmap-xxxhdpi/ic_safepassword_round.png"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_safepassword_round.png.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/mipmap-mdpi/ic_safepassword_round.png"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_spn_other.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_spn_other.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/layout_item_spinner.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/layout/item_spinner.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_spn_tiktok.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_spn_tiktok.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/layout_fragment_floating_hideshow.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/layout/fragment_floating_hideshow.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_baseline_message.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_baseline_message.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_spn_work.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_spn_work.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_safepassword_round.png.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/mipmap-hdpi/ic_safepassword_round.png"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_baseline_cloud_upload.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_baseline_cloud_upload.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/layout_activity_first_session.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/layout/activity_first_session.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_baseline_menu.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_baseline_menu.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_spn_amazon.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_spn_amazon.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_layout_spinner.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/layout_spinner.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_baseline_cloud_done.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_baseline_cloud_done.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/layout_item_backup.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/layout/item_backup.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/layout_view_asking_pin.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/layout/view_asking_pin.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/anim_fade_out.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_safepassword.png.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/mipmap-xxhdpi/ic_safepassword.png"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_baseline_name_pass.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_baseline_name_pass.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_safepassword.png.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/mipmap-hdpi/ic_safepassword.png"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_spn_gmail.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_spn_gmail.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_spn_reddit.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_spn_reddit.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_remove_user.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_remove_user.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/layout_layout_toast.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/layout/layout_toast.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/anim_fade_in.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_baseline_filter.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_baseline_filter.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_baseline_none.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_baseline_none.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_baseline_done.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_baseline_done.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_spn_instagram.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_spn_instagram.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_baseline_pass_key.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_baseline_pass_key.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_safepassword_foreground.png.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/mipmap-mdpi/ic_safepassword_foreground.png"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/layout_custom_toolbar.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/layout/custom_toolbar.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_safepassword_round.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/mipmap-anydpi-v26/ic_safepassword_round.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/layout_fragment_floating_backup.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/layout/fragment_floating_backup.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_safepassword.png.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/mipmap-mdpi/ic_safepassword.png"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_spn_twitch.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_spn_twitch.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_spn_personal.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_spn_personal.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_baseline_exit_to_app.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_baseline_exit_to_app.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/drawable_ic_baseline_item_edit.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/drawable/ic_baseline_item_edit.xml"
+    },
+    {
+        "merged": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/build/intermediates/res/merged/debug/menu_menu_settings.xml.flat",
+        "source": "/home/josu/INFORMATICA/05Cuarto(2020-2021)/SEGUNDO-CUATRIMESTRE/ProgramacionDispositivosMoviles/Aplicacion_01/SafePassword/app/src/main/res/menu/menu_settings.xml"
+    }
+]

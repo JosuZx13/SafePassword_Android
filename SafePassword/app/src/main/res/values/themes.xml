@@ -1,0 +1,113 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.SafePassword" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Gama Primaria de Color -->
+        <item name="colorPrimary">@color/color_primary_dark</item>
+        <item name="colorPrimaryVariant">@color/color_primary_light</item>
+        <item name="colorOnPrimary">@color/color_on_primary</item>
+        <!-- Gama Secundaria de Color. -->
+        <item name="colorSecondary">@color/color_secondary_dark</item>
+        <item name="colorSecondaryVariant">@color/color_secondary_light</item>
+        <item name="colorOnSecondary">@color/color_on_secondary</item>
+
+        <!-- Color Barra -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+
+        <item name="fontFamily">@font/crimson_text</item>
+        <item name="android:windowFullscreen">true</item>
+
+    </style>
+
+    <!-- Para ventana emergente a la hora de mostrar la contraseña -->
+    <!-- Extiende de Theme.SafePassword para mantener lo ya definido -->
+    <style name="FloatingStyleNotTouch" parent="Theme.SafePassword">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@color/translucent</item>
+        <item name="android:windowCloseOnTouchOutside">false</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="FieldSafePasswordFloating">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentStart">true</item>
+        <item name="android:layout_centerInParent">true</item>
+        <item name="android:maxLines">@integer/item_max_lines</item>
+        <item name="android:maxLength">@integer/item_max_length</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <!-- Para eliminar los bordes de los TextInput -->
+    <style name="TextInputLayoutStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/color_on_primary</item>
+        <item name="boxStrokeWidth">0dp</item>
+    </style>
+
+    <!-- Efecto para cada tableRow del teclado numerico -->
+    <style name="TableRowNumPad">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_weight">2.5</item>
+    </style>
+
+    <!-- Estos estilos se aplicaran a las vistas flotantes de la edicion y visualizacion de contraseñas -->
+    <style name="LayoutFieldPasswordLinearLayout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">2</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:gravity">center|start</item>
+        <item name="android:layout_margin">@dimen/margin_floating_layout</item>
+        <item name="android:baselineAligned">false</item>
+    </style>
+
+    <style name="LayoutFieldPasswordText">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:inputType">text</item>
+        <item name="android:layout_marginStart">@dimen/margin_floating_item</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <!-- Estilo para las cajas donde irá introducido el pin -->
+    <style name="InputDigitLayout">
+        <item name="android:layout_width">50dip</item>
+        <item name="android:layout_height">50dip</item>
+        <item name="android:inputType">numberPassword</item>
+        <item name="android:focusable">false</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:autoSizeTextType">uniform</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:focusableInTouchMode">false</item>
+        <item name="boxStrokeColor">@color/color_on_primary</item>
+        <item name="boxStrokeWidth">0dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@color/color_alternative_secondary_variant</item>
+    </style>
+
+    <!-- Estilo para el teclado númerico, en concreto cada uno de los botones -->
+    <style name="NumpadButton">
+        <item name="android:layout_width">100dp</item>
+        <item name="android:layout_height">100dp</item>
+        <item name="android:layout_weight">3</item>
+        <item name="android:layout_marginStart">@dimen/numpad_margin</item>
+        <item name="android:layout_marginBottom">@dimen/numpad_margin</item>
+        <item name="android:clickable">true</item>
+        <item name="android:gravity">center</item>
+        <item name="android:autoSizeTextType">uniform</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:background">@drawable/numpad_button</item>
+    </style>
+
+    <style name="password_activity_button_interface">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:padding">@dimen/padding_button</item>
+        <item name="android:background">@drawable/selector_password_button</item>
+    </style>
+
+</resources>

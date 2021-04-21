@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="category">
+        <item>RedSocial</item>
+        <item>CorreoElectronico</item>
+        <item>Banco</item>
+        <item>Foro</item>
+        <item>WiFi</item>
+        <item>Trabajo</item>
+        <item>Otro</item>
+    </string-array>
+    <string-array name="category_filter">
+        <item>Todo</item>
+        <item>RedSocial</item>
+        <item>CorreoElectronico</item>
+        <item>Banco</item>
+        <item>Foro</item>
+        <item>WiFi</item>
+        <item>Trabajo</item>
+        <item>Otro</item>
+    </string-array>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d notificación nueva</item>
+    <item quantity="other">%d notificaciones nuevas</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Ir a inicio"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Desplazarse hacia arriba"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Más opciones"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Listo"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Ver todo"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Seleccionar una aplicación"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"DESACTIVADO"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ACTIVADO"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Suprimir"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Intro"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Función +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Mayús +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Espacio"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menú +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Buscar…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Borrar consulta"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Consulta de búsqueda"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Buscar"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Búsqueda por voz"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Compartir con"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Compartir con <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Ocultar"</string>
+    <string name="account_change">Cambiar Cuenta Nube</string>
+    <string name="aceptar">Sí</string>
+    <string name="admin_backup">Administrar Copias de Seguridad Local</string>
+    <string name="app_backup">Copia de Seguridad</string>
+    <string name="app_borrar_all_backup">Borrar TODAS Las Copias de Seguridad</string>
+    <string name="app_borrar_backup">Borrar Copia de Seguridad</string>
+    <string name="app_borrar_password">Eliminar Contraseña</string>
+    <string name="app_borrar_usuario">Eliminar Usuario</string>
+    <string name="app_cerrar">Salir de SafePassword</string>
+    <string name="app_name">SafePassword</string>
+    <string name="app_verification">Verificación del Usuario</string>
+    <string name="backup_delete_option">Borrar Copia</string>
+    <string name="backup_mensaje">¿Qué tipo de copia de seguridad quiere crear?</string>
+    <string name="backup_not_complete">No Ha Sido Posible Crear La Copia De Seguridad</string>
+    <string name="backup_restore_option">Restaurar Copia</string>
+    <string name="biometric_fail">Fallo en la Identificación</string>
+    <string name="biometric_login_fingerprint">Use Su Huella Para Iniciar Sesión</string>
+    <string name="biometric_login_password">Prefiero Usar Mi Contraseña</string>
+    <string name="biometric_login_title">Inicio de Sesión Biométrico</string>
+    <string name="biometric_sucess">¡Identificación Realizada!</string>
+    <string name="borrar_all_backup_mensaje">¿Está seguro de eliminar TODAS las Copias de Seguridad?</string>
+    <string name="borrar_backup_mensaje">¿Está seguro de eliminar la Copia de Seguridad?</string>
+    <string name="borrar_password_mensaje">¿Está seguro de eliminar la contraseña?</string>
+    <string name="borrar_usuario_mensaje">¿Está seguro de eliminar el usuario? Perderá todas las contraseñas asociadas</string>
+    <string name="bottomsheet_action_expand_halfway">Desplegar hasta la mitad</string>
+    <string name="bt_add_new_pass">Nueva Contraseña</string>
+    <string name="bt_delete_user_registered">Eliminar Usuario</string>
+    <string name="bt_modify_pin">Modificar Pin</string>
+    <string name="cancelar">No</string>
+    <string name="cerrar_mensaje">¿Desea salir de la Aplicación?</string>
+    <string name="character_counter_content_description">Caracteres introducidos: %1$d de %2$d</string>
+    <string name="character_counter_overflowed_content_description">Límite de caracteres superado (%1$d de %2$d)</string>
+    <string name="clear_text_end_icon_content_description">Borrar texto</string>
+    <string name="cloud_backup_create">Copia de Seguridad en Cloud Creada</string>
+    <string name="cloud_date_backup">NUBE</string>
+    <string name="cloud_type">Copia en la Nube</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Habilitar"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no funcionará hasta que no habilites Servicios de Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Habilita Servicios de Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Instalar"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no se ejecutará si los Servicios de Google Play no están instalados en tu dispositivo."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Descargar Servicios de Google Play"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Disponibilidad Servicios de Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Error de Servicios de Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"La aplicación <ns1:g id="APP_NAME">%1$s</ns1:g> tiene problemas con los Servicios de Google Play. Vuelve a intentarlo."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"No es posible ejecutar la aplicación <ns1:g id="APP_NAME">%1$s</ns1:g> sin los Servicios de Google Play, que no son compatibles con tu dispositivo."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Actualizar"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no funcionará hasta que no actualices Servicios de Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Actualiza Servicios de Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no se ejecutará hasta que finalice la actualización en curso de Servicios de Google Play."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Se necesita una nueva versión de Servicios de Google Play. Se actualizará en breve."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Abrir en teléfono"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Iniciar sesión"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Iniciar sesión con Google"</string>
+    <string msgid="5912733858573823945" name="confirm_device_credential_password">"Usar contraseña"</string>
+    <string name="date_backup">COPIA DE SEGURIDAD</string>
+    <string msgid="4776854077120974966" name="default_error_msg">"Error desconocido"</string>
+    <string name="download_backup">Descargar Copia de Seguridad</string>
+    <string name="error_icon_content_description">Error</string>
+    <string name="exposed_dropdown_menu_content_description">Mostrar menú desplegable</string>
+    <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"Toca sensor huellas digitales"</string>
+    <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"El hardware de huella digital no está disponible."</string>
+    <string msgid="6306988885793029438" name="fingerprint_error_hw_not_present">"El dispositivo no tiene ningún sensor de huellas digitales"</string>
+    <string msgid="7291787166416782245" name="fingerprint_error_lockout">"Has realizado demasiados intentos. Vuelve a probar más tarde."</string>
+    <string msgid="7520712796891883488" name="fingerprint_error_no_fingerprints">"No se ha registrado ninguna huella digital."</string>
+    <string msgid="7627716295344353987" name="fingerprint_error_user_canceled">"El usuario ha cancelado la operación de huella digital."</string>
+    <string msgid="3873359464293253009" name="fingerprint_not_recognized">"No se reconoce"</string>
+    <string msgid="3791785319221634505" name="generic_error_no_device_credential">"No se ha definido el PIN, el patrón o la contraseña."</string>
+    <string msgid="1807436368654974044" name="generic_error_no_keyguard">"Este dispositivo no admite PINs, patrones ni contraseñas."</string>
+    <string msgid="7309881387583143581" name="generic_error_user_canceled">"El usuario ha cancelado la autenticación."</string>
+    <string name="icon_content_description">Icono del cuadro de diálogo</string>
+    <string name="idioma_en">Ingles</string>
+    <string name="idioma_es">Español</string>
+    <string name="importar_backup">IMPORTAR BASE DE DATOS</string>
+    <string name="iniciar_sesion">INICIAR SESION</string>
+    <string name="item_view_role_description">Pestaña</string>
+    <string name="local_backup_create">Copia de Seguridad Local Creada</string>
+    <string name="local_backup_not_restored">No fue Posible Importar la Copia Local Seleccionada</string>
+    <string name="local_backup_restored">Copia Local Importada: </string>
+    <string name="local_date_backup">LOCAL</string>
+    <string name="local_type">Copia Local</string>
+    <string name="material_clock_toggle_content_description">Selecciona AM o PM</string>
+    <string name="material_hour_selection">Seleccionar hora</string>
+    <string name="material_hour_suffix">%1$s en punto</string>
+    <string name="material_minute_selection">Seleccionar minutos</string>
+    <string name="material_minute_suffix">%1$s minutos</string>
+    <string name="material_timepicker_am">A.M.</string>
+    <string name="material_timepicker_clock_mode_description">Cambia al modo de reloj para escribir la hora.</string>
+    <string name="material_timepicker_hour">Hora</string>
+    <string name="material_timepicker_minute">Minuto</string>
+    <string name="material_timepicker_pm">P.M.</string>
+    <string name="material_timepicker_select_time">Seleccionar la hora</string>
+    <string name="material_timepicker_text_input_mode_description">Cambia al modo de introducción de texto para escribir la hora.</string>
+    <string name="mensaje_all_backup_deleted">Todas las Copias de Seguridad Eliminadas</string>
+    <string name="mensaje_backup_deleted">Copia de Seguridad Eliminada</string>
+    <string name="mensaje_generico_error_safepassword">Ha ocurrido un error, algo ha salido mal</string>
+    <string name="mensaje_password_deleted">Contraseña Eliminada</string>
+    <string name="mensaje_password_edited">Contraseña Editada</string>
+    <string name="mensaje_password_minimo_caracteres">Al Menos Cuatro (4) Caracteres Para La Contraseña</string>
+    <string name="mensaje_password_name_incorrecto">El Nombre Elegido Ya Existe</string>
+    <string name="mensaje_password_new_password_added">Contraseña Guardada</string>
+    <string name="mensaje_usuario_eliminado">La Base de Datos Ha sido Eliminado</string>
+    <string name="mensaje_usuario_existe">Ya Existe Una Contraseña Definida Para La Base De Datos Cargada</string>
+    <string name="mensaje_usuario_logged">Session Iniciada</string>
+    <string name="mensaje_usuario_minimo_caracteres">Al Menos Cuatro (4) Caracteres Para El Usuario</string>
+    <string name="mensaje_usuario_no_existe">El Usuario No Existe</string>
+    <string name="mensaje_usuario_password_incorrecta">La Contraseña Introducida No Es Correcta</string>
+    <string name="mensaje_usuario_registrado">La Contraseña Ha Sido Registrado</string>
+    <string name="mtrl_badge_numberless_content_description">Notificación nueva</string>
+    <string name="mtrl_chip_close_icon_content_description">Retirar %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Más de %1$d notificaciones nuevas</string>
+    <string name="mtrl_picker_a11y_next_month">Cambiar al mes siguiente</string>
+    <string name="mtrl_picker_a11y_prev_month">Cambiar al mes anterior</string>
+    <string name="mtrl_picker_announce_current_selection">Selección actual: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Selecciona una fecha</string>
+    <string name="mtrl_picker_date_header_unselected">Fecha seleccionada</string>
+    <string name="mtrl_picker_day_of_week_column_header">Columna de días: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Formato no válido.</string>
+    <string name="mtrl_picker_invalid_format_example">Ejemplo: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Usar: %1$s</string>
+    <string name="mtrl_picker_invalid_range">El periodo no es válido.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Ir al año %1$s</string>
+    <string name="mtrl_picker_out_of_range">Fuera del periodo válido: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Fecha de inicio–%1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s–Fecha de finalización</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Selecciona un periodo</string>
+    <string name="mtrl_picker_range_header_unselected">Fecha de inicio–Fecha de finalización</string>
+    <string name="mtrl_picker_save">Guardar</string>
+    <string name="mtrl_picker_text_input_date_hint">Fecha</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Fecha de finalización</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Fecha de inicio</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">a</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Cambiar al modo de introducción Calendario</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Toca para seleccionar un día</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Cambiar al modo de introducción Texto</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Toca para seleccionar un año</string>
+    <string name="never_backup">Nunca</string>
+    <string name="not_database_init">No Hay Ninguna Base de Datos Inicializada. Regístrese En Primer Lugar</string>
+    <string name="not_google_session">Aun No Ha Iniciado Sesión En Una Cuenta Google</string>
+    <string name="not_local_backup_yet">No Existen Copias de Seguridad Local</string>
+    <string name="not_session">No Hay Sincronización Con La Nube</string>
+    <string name="password_toggle_content_description">Mostrar contraseña</string>
+    <string name="pincode_error">El Pin Introducido No Es Correcto</string>
+    <string name="pincode_not_exist">No Hay Un Pin Registrado</string>
+    <string name="pinconde_not_enough_digit">El Pin Tiene Que Tener Cuatro (4) Digitos</string>
+    <string name="pinconde_not_registered">El Pin No Se Ha Registrado</string>
+    <string name="pinconde_register">Introduce Un Pin De Cuatro (4) Digitos</string>
+    <string name="pinconde_save_correctly">Pin Registrado Correctamente</string>
+    <string name="prefer_password">Contraseña</string>
+    <string name="prefer_pin_code">Código Pin</string>
+    <string name="registro">REGISTRO</string>
+    <string name="required_password_continue">Introduzca Su Contraseña Para Continuar</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Buscar"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="text_item_name">Nombre</string>
+    <string name="text_item_password">Contraseña</string>
+    <string name="text_item_url">Pagina Web</string>
+    <string name="text_item_user">Usuario</string>
+    <string name="unable_create_dir_local_backup">No ha sido posible crear el directorio, inténtelo de nuevo</string>
+    <string name="upload_backup">Subir Copia de Seguridad</string>
+</resources>
